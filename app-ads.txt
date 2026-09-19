@@ -1,0 +1,7 @@
+# Google AdMob app-ads.txt for Word Search Wonders
+# Official Documentation: https://support.google.com/admob/answer/9363762
+#
+# IMPORTANT: Replace pub-XXXXXXXXXXXXXXXX with your actual AdMob Publisher ID:
+# (AdMob Console > Settings > Account Information > Publisher ID)
+#
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
